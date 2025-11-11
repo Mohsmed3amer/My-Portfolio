@@ -9,7 +9,7 @@ The website features smooth animations, typing effects, responsive design, and a
 
 ## 🔗 Live Demo
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
+Or access the online demo here: [Live Demo](https://mohsmed3amer.github.io/My-Portfolio/)
 
 ---
 
@@ -19,7 +19,7 @@ Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
 - 🎨 **Typing Effect** — Animated text to showcase skills  
 - 🌍 **Smooth Scroll** — Fluid navigation between sections  
 - 💻 **Clean Structure** — Modular HTML, CSS, and JS  
-- 📧 **Contact Form** — Integrated with [EmailJS](https://www.emailjs.com/) for instant messaging  
+- 📧 **Contact Form** — Integrated with [formspree](https://formspree.io/) for instant messaging  
 
 ---
 
@@ -29,7 +29,7 @@ Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
 |-----------|--------|
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
 | **Animations** | CSS keyframes, IntersectionObserver |
-| **Form Handling** | EmailJS |
+| **Form Handling** | formspree |
 | **Deployment** | GitHub Pages |
 
 ---
@@ -38,19 +38,19 @@ Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/Saboo24/Sabo.git
-   cd Sabo
+   git clone https://github.com/Mohsmed3amer.git
+   cd My-Portfolio
    
 ---
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: medo01118719524@gmail.com   
+- Location: Cairo, Egypt  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mo7med-3ssam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- GitHub: [GitHub](https://github.com/Mohsmed3amer)  
+- Instagram: [Instagram](https://www.instagram.com/mohamedesssam524?igsh=MXRtZGZmN2hjZnplbA==)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Mohamed Essam**
